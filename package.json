@@ -1,0 +1,24 @@
+{
+  "name": "crop-img",
+  "version": "1.0.0",
+  "description": "Creates a crop region with the given dimensions and alignment, similar to background-size: cover / object-fit: cover",
+  "author": "Nik Rowell <nik@nikrowell.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikrowell/crop-img.git"
+  },
+  "keywords": [
+    "canvas",
+    "canvas-2d",
+    "canvas-context",
+    "crop",
+    "image",
+    "webgl",
+    "webgl-textures"
+  ],
+  "scripts": {
+    "test": "echo 'You should be unit testing'"
+  }
+}
